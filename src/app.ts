@@ -12,4 +12,5 @@ app.use(cors({
 app.use(compression())
 app.use(bodyParser.json())
 
+
 export default app
